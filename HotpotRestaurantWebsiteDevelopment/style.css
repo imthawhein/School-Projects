@@ -1,0 +1,24 @@
+nav, header{
+    background-color: red;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+a{
+    color: white !important;
+    font-size: larger;
+}
+
+.current{
+    text-decoration: underline;
+}
+
+.logo{
+    width: 50%;
+}
+
+.category{
+    font-size: large;
+}
